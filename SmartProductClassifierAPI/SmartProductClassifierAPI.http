@@ -1,0 +1,6 @@
+@SmartProductClassifierAPI_HostAddress = http://localhost:5273
+
+GET {{SmartProductClassifierAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
